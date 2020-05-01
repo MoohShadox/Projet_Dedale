@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"knowledge","l":"MapRepresentation"},{"p":"knowledge","l":"MapRepresentation.MapAttribute"}]

@@ -1,0 +1,933 @@
+@prefix :      <http://www.co-ode.org/ontologies/ont.owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://datas/Node10>
+        a              :Node ;
+        rdfs:label     "10" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node4> , <http://datas/Node11> , <http://datas/Node9> .
+
+<http://datas/Node51>
+        a              :Node ;
+        rdfs:label     "51" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node67> , <http://datas/Node22> .
+
+<http://datas/Node23>
+        a              :Node ;
+        rdfs:label     "23" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node34> , <http://datas/Node22> .
+
+<http://datas/Node92>
+        a              :Node ;
+        rdfs:label     "92" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node85> , <http://datas/Node93> , <http://datas/Node82> , <http://datas/Node92> , <http://datas/Node91> .
+
+<http://datas/Node36>
+        a              :Node ;
+        rdfs:label     "36" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node44> .
+
+<http://datas/Node77>
+        a              :Node ;
+        rdfs:label     "77" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node76> , <http://datas/Node78> .
+
+<http://datas/Node104>
+        a              :Node ;
+        rdfs:label     "104" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node111> , <http://datas/Node101> , <http://datas/Node121> .
+
+<http://datas/Node49>
+        a              :Node ;
+        rdfs:label     "49" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "open" ;
+        :successor     <http://datas/Node66> , <http://datas/Node40> .
+
+<http://datas/Node6>  a  :Node ;
+        rdfs:label     "6" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node0> , <http://datas/Node7> .
+
+<http://datas/Node117>
+        a              :Node ;
+        rdfs:label     "117" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node112> , <http://datas/Node128> , <http://datas/Node118> .
+
+<http://datas/Node30>
+        a              :Node ;
+        rdfs:label     "30" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node36> , <http://datas/Node31> .
+
+<http://datas/Node71>
+        a              :Node ;
+        rdfs:label     "71" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node70> , <http://datas/Node76> , <http://datas/Node67> .
+
+<http://datas/Node43>
+        a              :Node ;
+        rdfs:label     "43" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node35> , <http://datas/Node44> .
+
+<http://datas/Node15>
+        a              :Node ;
+        rdfs:label     "15" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node19> , <http://datas/Node17> , <http://datas/Node14> .
+
+<http://datas/Node0>  a  :Node ;
+        rdfs:label     "0" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node122> , <http://datas/Node6> .
+
+<http://datas/Node84>
+        a              :Node ;
+        rdfs:label     "84" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "open" ;
+        :successor     <http://datas/Node86> , <http://datas/Node85> .
+
+<http://datas/Node111>
+        a              :Node ;
+        rdfs:label     "111" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node120> , <http://datas/Node116> , <http://datas/Node104> , <http://datas/Node110> .
+
+<http://datas/Node56>
+        a              :Node ;
+        rdfs:label     "56" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node63> .
+
+<http://datas/Node28>
+        a              :Node ;
+        rdfs:label     "28" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node17> , <http://datas/Node81> , <http://datas/Node29> .
+
+<http://datas/Node97>
+        a              :Node ;
+        rdfs:label     "97" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node98> , <http://datas/Node22> .
+
+<http://datas/Node69>
+        a              :Node ;
+        rdfs:label     "69" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node74> , <http://datas/Node72> , <http://datas/Node75> , <http://datas/Node68> , <http://datas/Node70> , <http://datas/Node73> .
+
+<http://datas/Node124>
+        a              :Node ;
+        rdfs:label     "124" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node106> , <http://datas/Node125> .
+
+<http://datas/Node109>
+        a              :Node ;
+        rdfs:label     "109" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node110> , <http://datas/Node112> , <http://datas/Node102> , <http://datas/Node108> .
+
+<http://datas/Node50>
+        a              :Node ;
+        rdfs:label     "50" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node95> , <http://datas/Node42> .
+
+<http://datas/Node22>
+        a              :Node ;
+        rdfs:label     "22" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node97> , <http://datas/Node23> , <http://datas/Node51> , <http://datas/Node16> .
+
+<http://datas/Node91>
+        a              :Node ;
+        rdfs:label     "91" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node89> , <http://datas/Node91> , <http://datas/Node90> , <http://datas/Node92> .
+
+<http://datas/Node63>
+        a              :Node ;
+        rdfs:label     "63" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node62> , <http://datas/Node56> , <http://datas/Node65> , <http://datas/Node60> .
+
+<http://datas/AgentExplo2>
+        a                 :Agent ;
+        rdfs:label        "Explo2" ;
+        :currentCount     "151"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :indicateStenche  <http://datas/Node83> ;
+        :isInNode         <http://datas/Node92> .
+
+<http://datas/Node35>
+        a              :Node ;
+        rdfs:label     "35" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node29> , <http://datas/Node43> , <http://datas/Node44> .
+
+<http://datas/P86>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node86> ;
+        :perceptedOn        "106"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node76>
+        a              :Node ;
+        rdfs:label     "76" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node77> , <http://datas/Node71> .
+
+<http://datas/Node103>
+        a              :Node ;
+        rdfs:label     "103" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node110> , <http://datas/Node101> .
+
+<http://datas/Node48>
+        a              :Node ;
+        rdfs:label     "48" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node39> , <http://datas/Node41> .
+
+<http://datas/P99>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node99> ;
+        :perceptedOn        "125"^^<http://www.w3.org/2001/XMLSchema#long> , "124"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node5>  a  :Node ;
+        rdfs:label     "5" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node58> , <http://datas/Node4> .
+
+<http://datas/Node89>
+        a              :Node ;
+        rdfs:label     "89" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node89> , <http://datas/Node83> , <http://datas/Node91> , <http://datas/Node88> , <http://datas/Node90> .
+
+<http://datas/Node116>
+        a              :Node ;
+        rdfs:label     "116" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node111> , <http://datas/Node119> , <http://datas/Node113> .
+
+<http://datas/Node70>
+        a              :Node ;
+        rdfs:label     "70" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node69> , <http://datas/Node71> .
+
+<http://datas/Node42>
+        a              :Node ;
+        rdfs:label     "42" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node50> , <http://datas/Node41> .
+
+<http://datas/Node14>
+        a              :Node ;
+        rdfs:label     "14" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node13> , <http://datas/Node15> .
+
+<http://datas/Node83>
+        a              :Node ;
+        rdfs:label     "83" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node99> , <http://datas/Node88> , <http://datas/Node89> , <http://datas/Node83> , <http://datas/Node85> .
+
+<http://datas/Node55>
+        a              :Node ;
+        rdfs:label     "55" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node56> , <http://datas/Node53> , <http://datas/Node54> , <http://datas/Node65> .
+
+<http://datas/Node110>
+        a              :Node ;
+        rdfs:label     "110" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node111> , <http://datas/Node109> , <http://datas/Node103> .
+
+<http://datas/Node27>
+        a              :Node ;
+        rdfs:label     "27" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node31> , <http://datas/Node19> , <http://datas/Node17> .
+
+<http://datas/Node96>
+        a              :Node ;
+        rdfs:label     "96" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node95> .
+
+<http://datas/Node68>
+        a              :Node ;
+        rdfs:label     "68" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node69> , <http://datas/Node67> .
+
+<http://datas/Node108>
+        a              :Node ;
+        rdfs:label     "108" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node109> , <http://datas/Node107> , <http://datas/Node105> .
+
+<http://datas/Node21>
+        a              :Node ;
+        rdfs:label     "21" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "open" ;
+        :successor     <http://datas/Node16> .
+
+<http://datas/Node90>
+        a              :Node ;
+        rdfs:label     "90" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node90> , <http://datas/Node89> , <http://datas/Node91> .
+
+<http://datas/Node62>
+        a              :Node ;
+        rdfs:label     "62" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node59> , <http://datas/Node61> , <http://datas/Node63> .
+
+<http://datas/AgentExplo1>
+        a                 :Agent ;
+        rdfs:label        "Explo1" ;
+        :currentCount     "95"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :indicateStenche  <http://datas/Node89> , <http://datas/Node83> , <http://datas/Node88> , <http://datas/Node92> , <http://datas/Node91> , <http://datas/Node85> ;
+        :isInNode         <http://datas/Node69> .
+
+<http://datas/Node34>
+        a              :Node ;
+        rdfs:label     "34" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node41> , <http://datas/Node23> .
+
+<http://datas/P85>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node85> ;
+        :perceptedOn        "134"^^<http://www.w3.org/2001/XMLSchema#long> , "132"^^<http://www.w3.org/2001/XMLSchema#long> , "108"^^<http://www.w3.org/2001/XMLSchema#long> , "103"^^<http://www.w3.org/2001/XMLSchema#long> , "102"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node75>
+        a              :Node ;
+        rdfs:label     "75" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node69> , <http://datas/Node74> .
+
+<http://datas/Node102>
+        a              :Node ;
+        rdfs:label     "102" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node109> , <http://datas/Node101> .
+
+<http://datas/Node47>
+        a              :Node ;
+        rdfs:label     "47" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node46> , <http://datas/Node39> .
+
+<http://datas/Node19>
+        a              :Node ;
+        rdfs:label     "19" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node27> , <http://datas/Node15> .
+
+<http://datas/Node4>  a  :Node ;
+        rdfs:label     "4" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node3> , <http://datas/Node5> , <http://datas/Node10> .
+
+<http://datas/Node88>
+        a              :Node ;
+        rdfs:label     "88" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node88> , <http://datas/Node89> , <http://datas/Node83> .
+
+<http://datas/Node115>
+        a              :Node ;
+        rdfs:label     "115" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node107> , <http://datas/Node125> , <http://datas/Node114> .
+
+<http://datas/Node128>
+        a              :Node ;
+        rdfs:label     "128" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node117> .
+
+<http://datas/Node41>
+        a              :Node ;
+        rdfs:label     "41" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node48> , <http://datas/Node42> , <http://datas/Node34> .
+
+<http://datas/Node13>
+        a              :Node ;
+        rdfs:label     "13" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node12> , <http://datas/Node14> .
+
+<http://datas/P92>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node92> ;
+        :perceptedOn        "148"^^<http://www.w3.org/2001/XMLSchema#long> , "145"^^<http://www.w3.org/2001/XMLSchema#long> , "137"^^<http://www.w3.org/2001/XMLSchema#long> , "130"^^<http://www.w3.org/2001/XMLSchema#long> , "111"^^<http://www.w3.org/2001/XMLSchema#long> , "109"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node82>
+        a              :Node ;
+        rdfs:label     "82" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "open" ;
+        :successor     <http://datas/Node92> , <http://datas/Node85> .
+
+<http://datas/Node54>
+        a              :Node ;
+        rdfs:label     "54" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node66> , <http://datas/Node56> , <http://datas/Node55> .
+
+<http://datas/Node26>
+        a              :Node ;
+        rdfs:label     "26" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node25> .
+
+<http://datas/Node95>
+        a              :Node ;
+        rdfs:label     "95" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node96> , <http://datas/Node50> .
+
+<http://datas/Node67>
+        a              :Node ;
+        rdfs:label     "67" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node71> , <http://datas/Node52> , <http://datas/Node51> , <http://datas/Node68> , <http://datas/Node66> .
+
+<http://datas/Node122>
+        a              :Node ;
+        rdfs:label     "122" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node101> , <http://datas/Node121> , <http://datas/Node0> .
+
+<http://datas/Node39>
+        a              :Node ;
+        rdfs:label     "39" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node47> , <http://datas/Node48> .
+
+<http://datas/Node107>
+        a              :Node ;
+        rdfs:label     "107" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node108> , <http://datas/Node115> , <http://datas/Node106> .
+
+<http://datas/Node9>  a  :Node ;
+        rdfs:label     "9" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node10> , <http://datas/Node8> .
+
+<http://datas/Node20>
+        a              :Node ;
+        rdfs:label     "20" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node16> , <http://datas/Node25> .
+
+<http://datas/Node61>
+        a              :Node ;
+        rdfs:label     "61" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node59> , <http://datas/Node62> .
+
+<http://datas/Node33>
+        a              :Node ;
+        rdfs:label     "33" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node25> , <http://datas/Node24> , <http://datas/Node40> .
+
+<http://datas/P84>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node84> ;
+        :perceptedOn        "105"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node74>
+        a              :Node ;
+        rdfs:label     "74" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node69> , <http://datas/Node75> , <http://datas/Node73> .
+
+<http://datas/Node101>
+        a              :Node ;
+        rdfs:label     "101" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node122> , <http://datas/Node103> , <http://datas/Node104> , <http://datas/Node105> , <http://datas/Node102> .
+
+<http://datas/Node46>
+        a              :Node ;
+        rdfs:label     "46" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node38> , <http://datas/Node47> .
+
+<http://datas/Node18>
+        a              :Node ;
+        rdfs:label     "18" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "open" ;
+        :successor     <http://datas/Node16> .
+
+<http://datas/Node3>  a  :Node ;
+        rdfs:label     "3" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node4> .
+
+<http://datas/Node87>
+        a              :Node ;
+        rdfs:label     "87" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node87> , <http://datas/Node86> , <http://datas/Node85> .
+
+<http://datas/Node114>
+        a              :Node ;
+        rdfs:label     "114" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node126> , <http://datas/Node115> , <http://datas/Node112> .
+
+<http://datas/Node59>
+        a              :Node ;
+        rdfs:label     "59" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node40> , <http://datas/Node61> , <http://datas/Node62> .
+
+<http://datas/Node127>
+        a              :Node ;
+        rdfs:label     "127" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node126> .
+
+<http://datas/Node40>
+        a              :Node ;
+        rdfs:label     "40" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node33> , <http://datas/Node49> , <http://datas/Node59> .
+
+<http://datas/Node12>
+        a              :Node ;
+        rdfs:label     "12" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node8> , <http://datas/Node13> .
+
+<http://datas/P91>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node91> ;
+        :perceptedOn        "149"^^<http://www.w3.org/2001/XMLSchema#long> , "148"^^<http://www.w3.org/2001/XMLSchema#long> , "146"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node81>
+        a              :Node ;
+        rdfs:label     "81" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node57> , <http://datas/Node28> .
+
+<http://datas/Node53>
+        a              :Node ;
+        rdfs:label     "53" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node52> , <http://datas/Node55> .
+
+<http://datas/Node25>
+        a              :Node ;
+        rdfs:label     "25" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node20> , <http://datas/Node26> , <http://datas/Node33> .
+
+<http://datas/Node94>
+        a              :Node ;
+        rdfs:label     "94" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node93> .
+
+<http://datas/Node66>
+        a              :Node ;
+        rdfs:label     "66" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node52> , <http://datas/Node49> , <http://datas/Node67> , <http://datas/Node54> .
+
+<http://datas/Node121>
+        a              :Node ;
+        rdfs:label     "121" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node120> , <http://datas/Node122> , <http://datas/Node104> .
+
+<http://datas/Node38>
+        a              :Node ;
+        rdfs:label     "38" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node37> , <http://datas/Node46> .
+
+<http://datas/P89>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node89> ;
+        :perceptedOn        "128"^^<http://www.w3.org/2001/XMLSchema#long> , "139"^^<http://www.w3.org/2001/XMLSchema#long> , "135"^^<http://www.w3.org/2001/XMLSchema#long> , "143"^^<http://www.w3.org/2001/XMLSchema#long> , "116"^^<http://www.w3.org/2001/XMLSchema#long> , "142"^^<http://www.w3.org/2001/XMLSchema#long> , "115"^^<http://www.w3.org/2001/XMLSchema#long> , "120"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node79>
+        a              :Node ;
+        rdfs:label     "79" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node78> .
+
+<http://datas/Node106>
+        a              :Node ;
+        rdfs:label     "106" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node107> , <http://datas/Node124> , <http://datas/Node105> .
+
+<http://datas/Node8>  a  :Node ;
+        rdfs:label     "8" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node7> , <http://datas/Node9> , <http://datas/Node12> .
+
+<http://datas/Node119>
+        a              :Node ;
+        rdfs:label     "119" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node120> , <http://datas/Node118> , <http://datas/Node116> .
+
+<http://datas/Node60>
+        a              :Node ;
+        rdfs:label     "60" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node63> , <http://datas/Node58> .
+
+<http://datas/Node32>
+        a              :Node ;
+        rdfs:label     "32" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node31> .
+
+<http://datas/P83>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node83> ;
+        :perceptedOn        "142"^^<http://www.w3.org/2001/XMLSchema#long> , "101"^^<http://www.w3.org/2001/XMLSchema#long> , "127"^^<http://www.w3.org/2001/XMLSchema#long> , "150"^^<http://www.w3.org/2001/XMLSchema#long> , "122"^^<http://www.w3.org/2001/XMLSchema#long> , "138"^^<http://www.w3.org/2001/XMLSchema#long> , "117"^^<http://www.w3.org/2001/XMLSchema#long> , "124"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node73>
+        a              :Node ;
+        rdfs:label     "73" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node69> , <http://datas/Node74> , <http://datas/Node72> .
+
+<http://datas/Node45>
+        a              :Node ;
+        rdfs:label     "45" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node44> , <http://datas/Node37> .
+
+<http://datas/Node17>
+        a              :Node ;
+        rdfs:label     "17" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node27> , <http://datas/Node28> , <http://datas/Node15> .
+
+<http://datas/Node2>  a  :Node ;
+        rdfs:label     "2" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node3> , <http://datas/Node7> .
+
+<http://datas/Node86>
+        a              :Node ;
+        rdfs:label     "86" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node87> , <http://datas/Node84> , <http://datas/Node85> .
+
+<http://datas/Node113>
+        a              :Node ;
+        rdfs:label     "113" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node112> , <http://datas/Node118> , <http://datas/Node116> .
+
+<http://datas/Node58>
+        a              :Node ;
+        rdfs:label     "58" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node60> , <http://datas/Node5> .
+
+<http://datas/Node99>
+        a              :Node ;
+        rdfs:label     "99" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node83> , <http://datas/Node98> .
+
+<http://datas/Node126>
+        a              :Node ;
+        rdfs:label     "126" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node125> , <http://datas/Node127> , <http://datas/Node114> .
+
+<http://datas/Node11>
+        a              :Node ;
+        rdfs:label     "11" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node10> .
+
+<http://datas/Node80>
+        a              :Node ;
+        rdfs:label     "80" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node81> , <http://datas/Node31> .
+
+<http://datas/Node52>
+        a              :Node ;
+        rdfs:label     "52" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node53> , <http://datas/Node67> , <http://datas/Node66> .
+
+<http://datas/Node24>
+        a              :Node ;
+        rdfs:label     "24" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "open" ;
+        :successor     <http://datas/Node33> .
+
+<http://datas/Node93>
+        a              :Node ;
+        rdfs:label     "93" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node93> , <http://datas/Node94> , <http://datas/Node92> .
+
+<http://datas/Node120>
+        a              :Node ;
+        rdfs:label     "120" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node111> , <http://datas/Node119> , <http://datas/Node121> .
+
+<http://datas/Node65>
+        a              :Node ;
+        rdfs:label     "65" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node78> , <http://datas/Node63> .
+
+<http://datas/Node37>
+        a              :Node ;
+        rdfs:label     "37" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node45> , <http://datas/Node38> .
+
+<http://datas/P88>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node88> ;
+        :perceptedOn        "142"^^<http://www.w3.org/2001/XMLSchema#long> , "140"^^<http://www.w3.org/2001/XMLSchema#long> , "126"^^<http://www.w3.org/2001/XMLSchema#long> , "118"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node78>
+        a              :Node ;
+        rdfs:label     "78" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node77> , <http://datas/Node79> , <http://datas/Node65> .
+
+<http://datas/Node105>
+        a              :Node ;
+        rdfs:label     "105" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node108> , <http://datas/Node106> , <http://datas/Node101> .
+
+<http://datas/Node7>  a  :Node ;
+        rdfs:label     "7" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node2> , <http://datas/Node6> , <http://datas/Node8> .
+
+<http://datas/Node118>
+        a              :Node ;
+        rdfs:label     "118" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node117> , <http://datas/Node119> , <http://datas/Node113> .
+
+<http://datas/Node31>
+        a              :Node ;
+        rdfs:label     "31" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node27> , <http://datas/Node32> , <http://datas/Node30> , <http://datas/Node80> .
+
+<http://datas/P82>  :perceptedBy  <http://datas/AgentExplo2> ;
+        :perceptedIn        <http://datas/Node82> ;
+        :perceptedOn        "104"^^<http://www.w3.org/2001/XMLSchema#long> ;
+        :perceptionContent  "Stench" .
+
+<http://datas/Node72>
+        a              :Node ;
+        rdfs:label     "72" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node69> , <http://datas/Node73> .
+
+<http://datas/Node44>
+        a              :Node ;
+        rdfs:label     "44" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node43> , <http://datas/Node36> , <http://datas/Node35> , <http://datas/Node57> , <http://datas/Node45> .
+
+<http://datas/Node16>
+        a              :Node ;
+        rdfs:label     "16" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node21> , <http://datas/Node18> , <http://datas/Node22> , <http://datas/Node20> .
+
+<http://datas/Node85>
+        a              :Node ;
+        rdfs:label     "85" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node85> , <http://datas/Node82> , <http://datas/Node92> , <http://datas/Node87> , <http://datas/Node84> , <http://datas/Node86> , <http://datas/Node83> .
+
+<http://datas/Node112>
+        a              :Node ;
+        rdfs:label     "112" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node109> , <http://datas/Node114> , <http://datas/Node117> , <http://datas/Node113> .
+
+<http://datas/Node57>
+        a              :Node ;
+        rdfs:label     "57" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node81> , <http://datas/Node44> .
+
+<http://datas/Node29>
+        a              :Node ;
+        rdfs:label     "29" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node28> , <http://datas/Node35> .
+
+<http://datas/Node98>
+        a              :Node ;
+        rdfs:label     "98" ;
+        :knownBy       <http://datas/AgentExplo2> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node99> , <http://datas/Node97> .
+
+<http://datas/Node125>
+        a              :Node ;
+        rdfs:label     "125" ;
+        :knownBy       <http://datas/AgentExplo2> , <http://datas/AgentExplo1> ;
+        :mapAttribute  "closed" ;
+        :successor     <http://datas/Node124> , <http://datas/Node126> , <http://datas/Node115> .
